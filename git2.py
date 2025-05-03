@@ -1,1 +1,0 @@
-print('This is my first git 2 message')
